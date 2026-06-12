@@ -81,3 +81,7 @@ Upon a successful run, the execution pipeline automatically outputs a performanc
 
 * Item-Item Collaborative Filtering: Uses the learned latent factor representations to extract vector cosine distances, allowing the engine to return highly accurate "Because you watched Movie X, our system recommends..." sequences.
 * Cold-Start Engine: Simulates a brand new user with absolute zero historical interactions. The module leverages global user review volume thresholds (>5,000 ratings) combined with historical item biases to recommend universally acclaimed fallback titles.ases to recommend universally acclaimed fallback titles.
+
+
+We also provided an ipynb file with full execution producing the same results 
+
