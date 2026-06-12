@@ -29,6 +29,13 @@ Recommendation_system/
 
 Follow these steps to set up the environment and execute the pipeline locally or in a cloud environment:
 
+
+copy the code down to local machine using git:
+
+
+git clone https://github.com/Amrutha-R-D/Recommendation_system.git
+cd Recommendation_system
+
 ### 1. Environment Setup
 Install all required package dependencies using pip:
 
